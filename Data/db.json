@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Arun",
+      "age": 21,
+      "city": "Kashipur",
+      "email": "arun@gmail.com"
+    },
+    {
+      "name": "Vikash",
+      "age": 22,
+      "city": "Noida",
+      "email": "vikash@gmail.com"
+    },
+    {
+      "name": "Shubham",
+      "age": 23,
+      "city": "Delhi",
+      "email": "shubham@gmail.com"
+    },
+    {
+      "name": "Daksh",
+      "age": 24,
+      "city": "Jaipur",
+      "email": "daksh@gmail.com"
+    },
+    {
+      "id": "f2ed",
+      "name": "shubham",
+      "age": "35",
+      "city": "syunsi",
+      "email": "shubham@gmail.com"
+    },
+    {
+      "id": "7c63",
+      "name": "ashu",
+      "age": "12",
+      "city": "dhaka",
+      "email": "ashu@gmail.com"
+    },
+    {
+      "id": "cdff",
+      "name": "himanshi",
+      "age": "12",
+      "city": "tehri",
+      "email": "himanshi@gmail.com"
+    }
+  ]
+}
